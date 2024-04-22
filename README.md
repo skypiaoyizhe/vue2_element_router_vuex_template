@@ -1,24 +1,25 @@
-# vue2_element_router_vuex_template
+# 整合了Vue2 Element UI Vue-Router Vuex axios 的一个模板
 
-## Project setup
-```
-yarn install
-```
+带有简单的接口封装
+带有路由拦截
+带有Element UI
+带有简单的模板界面
 
-### Compiles and hot-reloads for development
+## 运行
 ```
 yarn serve
+yarn serve:dev
+yarn serve:pro
 ```
 
-### Compiles and minifies for production
+## 打包
 ```
 yarn build
+yarn build:dev
+yarn build:pro
 ```
 
-### Lints and fixes files
+## 修复lint
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
